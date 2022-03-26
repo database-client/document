@@ -1,29 +1,16 @@
 # Database Client
 
-<p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-    <img src="https://img.shields.io/vscode-marketplace/v/cweijan.vscode-mysql-client2.svg?label=vscode%20marketplace">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-    <img src="https://vsmarketplacebadge.apphb.com/installs-short/cweijan.vscode-mysql-client2.svg">
-  </a>
-  <a href="https://github.com/cweijan/vscode-database-client">
-    <img src="https://img.shields.io/github/stars/cweijan/vscode-database-client?logo=github&style=flat">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-    <img src="https://img.shields.io/vscode-marketplace/r/cweijan.vscode-mysql-client2.svg">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-  <img alt="GitHub" src="https://img.shields.io/github/license/cweijan/vscode-database-client">
-  </a>
-</p>
-<br>
+This project is a database client for VSCode, supports manager **MySQL/MariaDB, PostgreSQL, SQLite, Redis, ClickHouse, 达梦**, and **ElasticSearch**, and works as an **SSH** client, boost your maximum productivity!
 
-This project is a database client for VSCode, supports manager **MySQL/MariaDB, PostgreSQL, SQLite, Redis**, and **ElasticSearch**, and works as an **SSH** client, boost your maximum productivity!
+![icon](public/logo.png)
 
-![icon](public/logo_dark.png)
+## About Pay
 
-## Function Description
+I have explained the reason for switching to payment, which is for my benefit. But this is not to punish silent users, I will now put more effort into developing this extension, you can get a better experience. 
+
+If there has been no financial support, the project will eventually end of life. But not anymore, thanks to paid users.
+
+## Function
 
 Feature comparison of free version and paid premium version:
 
@@ -44,7 +31,16 @@ Feature comparison of free version and paid premium version:
 | Show table definition SQL                     | ✘   | ✔      |
 | View SQL execution history                    | ✘   | ✔      |
 
-## Other
+## About Name
 
-- Install: [vscode-database-client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
-- contact us: If you have any problems in use, you can go to [github](https://github.com/cweijan/vscode-database-client/issues) to create an issue or send an email to support@database-client.com.
+In the beginning, this extension only supported mysql, now mysql still has the most users, so the name is still kept as mysql, and at the same time I released an extension with a new name, and the two extensions will be updated synchronously.
+
+- [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+- [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
+
+## Contact Us
+
+If you encounter any problems, you can contact us by the following ways:
+
+- create an issue on [github](https://github.com/cweijan/vscode-database-client/issues).
+- send an email to support@database-client.com.

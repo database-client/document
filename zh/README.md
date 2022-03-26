@@ -19,9 +19,13 @@
 </p>
 <br>
 
-该项目为Visual Studio Code的数据库客户端扩展, 支持**MySQL/MariaDB, PostgreSQL, SQLite, Redis**以及**ElasticSearch**的管理, 且可以作为一个SSH客户端, 最大程度地提高你的生产力!
+该项目为Visual Studio Code的数据库客户端扩展, 支持**MySQL/MariaDB, PostgreSQL, SQLite, Redis, ClickHouse, 达梦**以及**ElasticSearch**的管理, 且可以作为一个SSH客户端, 最大程度地提高你的生产力!
 
-![icon](../public/logo_dark.png)
+![icon](../public/logo.png)
+
+## 关于付费
+
+我已说明转为付费的原因, 这是为了我的利益考虑. 但这并不是对沉默用户的惩罚, 现在我会投入更多的精力来开发这个项目, 你可以得到更良好的使用体验. 开源项目如果没有资金支持, 最终就是结束生命。 但现在不会了, 感谢付费的用户.
 
 ## 功能
 
@@ -44,11 +48,17 @@
 | 查看表的建表语句                                 | ✘     | ✔     |
 | 查看SQL执行历史记录                              | ✘     | ✔     |
 
-## 其他
+## 关于名字
 
-- 安装地址: [vscode-database-client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
-- 如果在使用中有任何问题, 可采取以下方式联系我们:
+在最开始, 这个扩展只支持mysql, 现在mysql任然是用户最多的, 所以名字还是保留为mysql, 同时我发布了一个新名字的扩展, 这两个扩展将同步更新.
 
-  - Q群(刚建立): 706495803
-  - 到github仓库[创建issue](https://github.com/cweijan/vscode-database-client/issues)
-  - 发邮件到support@database-client.com
+- [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+- [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
+
+## 联系我们
+
+如果你遇到了任何问题, 可通过以下方式联系我们:
+
+- 加入Q群: 706495803
+- 到github仓库[创建issue](https://github.com/cweijan/vscode-database-client/issues)
+- 发邮件到support@database-client.com
