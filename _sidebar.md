@@ -1,10 +1,8 @@
 * Document
 
-  * [introduce](README.md)
-  * [Connection](connect.md)
-  * [Database](database.md)
-  * [Table](table.md)
-  * [SQL](sql.md)
+  * [introduce](/)
+  * [QuickStart](start.md)
   * [SSH](ssh.md)
-  * [Console](console.md)
-  * [Mock Data](mockData.md)
+  * [Connection](connection.md)
+  * [Result View](result.md)
+  * [Util](util.md)

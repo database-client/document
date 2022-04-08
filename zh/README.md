@@ -23,11 +23,14 @@
 
 ![icon](../public/logo.png)
 
-## 关于付费
+### 关于名字
 
-我已说明转为付费的原因, 这是为了我的利益考虑. 但这并不是对沉默用户的惩罚, 现在我会投入更多的精力来开发这个项目, 你可以得到更良好的使用体验. 开源项目如果没有资金支持, 最终就是结束生命。 但现在不会了, 感谢付费的用户.
+在最开始, 这个扩展只支持mysql, 现在mysql任然是用户最多的, 所以名字还是保留为mysql, 同时发布了一个新名字的扩展, 这两个扩展将同步更新.
 
-## 功能
+- [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+- [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
+
+### 功能
 
 免费版和付费高级版的功能比较:
 
@@ -48,14 +51,7 @@
 | 查看表的建表语句                                 | ✘     | ✔     |
 | 查看SQL执行历史记录                              | ✘     | ✔     |
 
-## 关于名字
-
-在最开始, 这个扩展只支持mysql, 现在mysql任然是用户最多的, 所以名字还是保留为mysql, 同时我发布了一个新名字的扩展, 这两个扩展将同步更新.
-
-- [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
-- [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
-
-## 联系我们
+### 联系我们
 
 如果你遇到了任何问题, 可通过以下方式联系我们:
 

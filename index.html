@@ -56,6 +56,15 @@
     }
   </script>
   <script src="docsify/docsify.min.js"></script>
+  <script>
+    window.addEventListener('click', (event) => {
+      const target = event.target;
+      const href = target && event.target.getAttribute("href");
+      if (href && href.startsWith("#") && !href.includes("?id")) {
+        scrollTo(0,0)
+      }
+    })
+  </script>
 </body>
 
 </html>
