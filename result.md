@@ -4,8 +4,8 @@
 
 By default queries are displayed in the same data view, there are two ways to open multiple panels:
 
-1. Click the button next to the table New Tab button
-2. Click the lock on the left side of the toolbar in the results view
+1. Click the button next to the table New Tab button.
+2. Click the lock on the left side of the toolbar in the results view.
 
 ![img](image/result/1649314690515.png)
 
