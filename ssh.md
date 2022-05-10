@@ -2,11 +2,13 @@
 
 This software additionally provides SSH support, which can be used as an SSH client.
 
+![](image/ssh/1652196715999.png)
+
 ## Terminal
 
 Open the interactive terminal by clicking the button next to the connection.
 
-![img](image/ssh/1648921120107.png)
+![img](image/ssh/1652196856309.png)
 
 ## SFTP
 
