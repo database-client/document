@@ -1,24 +1,5 @@
 # Database Client
 
-<p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-    <img src="https://img.shields.io/vscode-marketplace/v/cweijan.vscode-mysql-client2.svg?label=vscode%20marketplace">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-    <img src="https://vsmarketplacebadge.apphb.com/installs-short/cweijan.vscode-mysql-client2.svg">
-  </a>
-  <a href="https://github.com/cweijan/vscode-database-client">
-    <img src="https://img.shields.io/github/stars/cweijan/vscode-database-client?logo=github&style=flat">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-    <img src="https://img.shields.io/vscode-marketplace/r/cweijan.vscode-mysql-client2.svg">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2">
-  <img alt="GitHub" src="https://img.shields.io/github/license/cweijan/vscode-database-client">
-  </a>
-</p>
-<br>
-
 该项目为Visual Studio Code的数据库客户端扩展, 支持**MySQL/MariaDB, PostgreSQL, SQLite, Redis, ClickHouse, 达梦**以及**ElasticSearch**的管理, 且可以作为一个SSH客户端, 最大程度地提高你的生产力!
 
 ![icon](../public/logo.png)

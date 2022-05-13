@@ -11,7 +11,7 @@ In the beginning, this extension only supported mysql, now mysql still has the m
 - [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 - [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
 
-### Function
+### Feature
 
 Feature comparison of free version and paid premium version:
 
