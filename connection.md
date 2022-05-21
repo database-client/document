@@ -6,6 +6,16 @@ In order to improve performance, the database information is cached. If your dat
 
 ![img](images/1638342622208.png)
 
+## Grouping and sorting
+
+When creating a connection, you can specify a group for the connection.
+
+![](image/connection/1653135860898.png)
+
+After creation, the grouping or order of connections can be modified by dragging in the tree panel.
+
+![](image/connection/1653136074794.png)
+
 ## Requirements
 
 ### SQL Server
