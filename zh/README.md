@@ -6,7 +6,7 @@
 
 ### 关于这个项目
 
-    我是个很注重效率的开发者, 我无法忍受navicat和datagrip的笨拙, 所以从2019.3开始我为了提高我的开发效率创建了这个项目. 在最开始, 这个扩展只支持mysql, 所以名字还是保留为mysql, 同时也以新名字进行发布, 这两个扩展将同步更新.
+我是个很注重效率的开发者, 我无法忍受navicat和datagrip的笨拙, 所以从2019.3开始我为了提高我的开发效率创建了这个项目. 在最开始, 这个扩展只支持mysql, 所以名字还是保留为mysql, 同时也以新名字进行发布, 这两个扩展将同步更新.
 
 - [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 - [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
