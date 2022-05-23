@@ -22,3 +22,9 @@
 ![](../image/result/1649314347381.png)
 
 ![](../image/result/1649314368326.png)
+
+## 快捷键
+
+- ctrl|meta+s, enter: 保存当前正在编辑的数据.
+- ctrl|meta+up: 上一条执行历史记录.
+- ctrl|meta+download: 下一条执行历史记录.

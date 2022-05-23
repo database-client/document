@@ -22,3 +22,9 @@ When the column is multi-line data, such as long text or JSON, you can move the 
 ![](image/result/1649314347381.png)
 
 ![](image/result/1649314368326.png)
+
+## Shortcut
+
+- ctrl|meta+s, enter: save editing data.
+- ctrl|meta+up: previous execute history.
+- ctrl|meta+download: next execute history.
