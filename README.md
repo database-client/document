@@ -4,12 +4,21 @@ This project is a database client for VSCode, supports manager **MySQL/MariaDB, 
 
 ![icon](public/logo.png)
 
-### About Name
+### About this project
 
-In the beginning, this extension only supported mysql, now mysql still has the most users, so the name is still kept as mysql, and we released an extension with a new name, and the two extensions will be updated synchronously.
+I am a developer who pays attention to efficiency, I can't stand the clumsiness of navicat and datagrip, so from 2019.3 I created this project to improve my development efficiency.
+
+At the beginning, this extension only supports mysql, so the name is still kept as mysql, and it released under the new name, and these two extensions will be updated synchronously.
 
 - [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 - [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
+
+After 2022.3, this project will require payment, based on two considerations:
+
+1. I often receive bad reviews, because some features don't satisfy these users, they don't care how much effort I put into it, and give extremely bad reviews, which makes me sad and angry.
+2. I need money.
+
+I'm just stating why, not to stop bad reviews, I don't care now.
 
 ### Feature
 

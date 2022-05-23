@@ -4,12 +4,19 @@
 
 ![icon](../public/logo.png)
 
-### 关于名字
+### 关于这个项目
 
-在最开始, 这个扩展只支持mysql, 现在mysql任然是用户最多的, 所以名字还是保留为mysql, 同时发布了一个新名字的扩展, 这两个扩展将同步更新.
+    我是个很注重效率的开发者, 我无法忍受navicat和datagrip的笨拙, 所以从2019.3开始我为了提高我的开发效率创建了这个项目. 在最开始, 这个扩展只支持mysql, 所以名字还是保留为mysql, 同时也以新名字进行发布, 这两个扩展将同步更新.
 
 - [MySQL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 - [Database Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
+
+从2022.3月后这个项目开始需要付费, 基于两点原因:
+
+1. 我时常收到差评, 因为部分功能不满足这些用户, 这些人不管我对此投入的巨大努力, 给了及其差劲的评价, 这让我感到伤心和愤怒.
+2. 我需要钱.
+
+我只是说明原因, 不是为了阻止差评, 我现在不在乎了.
 
 ### 功能
 
