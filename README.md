@@ -18,7 +18,7 @@ After 2022.3, this project will require payment, based on two considerations:
 1. I often receive bad reviews, because some features don't satisfy these users, they don't care how much effort I put into it, and give extremely bad reviews, which makes me sad and angry.
 2. I need money.
 
-I'm just stating why, not to stop bad reviews, I don't care now.
+I'm just stating why, not to stop bad reviews, my focus now shifts from reviews to software quality.
 
 ### Feature
 
