@@ -7,7 +7,7 @@
 
 ![connection](images/connection.jpg)
 
-This extension will create two panels, because in some cases it is necessary to view both SQL and NoSQL data. 
+This extension will create two panels, because in some cases it is necessary to view both SQL and NoSQL data.
 
 If you don't need nosql, you can drag it by long press.
 
@@ -15,6 +15,7 @@ If you don't need nosql, you can drag it by long press.
 
 1. Clicking on the data table node in the tree view will open the data view.
 2. Then you can do data modification on the data view.
+3. The total number of data is displayed next to the table, which is not accurate, but can be used to determine the data volume level of the table.
 
 ![](image/start/1649314813668.png)
 
