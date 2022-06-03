@@ -31,7 +31,7 @@ If you want to connect to your local SQL Server through a port, you usually need
 
 ### MongoDB
 
-MongoDB has less support and is only recommended for browsing data.
+MongoDB has less support and no longer actively maintained, only recommended for browsing data.
 
 ## Object Filter
 
