@@ -49,6 +49,6 @@
 
 ### Redis
 
-从版本5.0开始支持对Redis进行备份和恢复, 格式为本程序自定义的JSON文件.
+从版本5.0开始支持对Redis进行备份和恢复, 可选两种格式JSON和NDJSON(推荐用于数据量大的情况)
 
 ![](../image/database/redis-backup.png)
