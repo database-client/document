@@ -35,6 +35,6 @@ MongoDB has less support and no longer actively maintained, only recommended for
 
 ## Object Filter
 
-Quickly filter objects, VSCode does not support creating input boxes, this is the only way.
+Quickly filter database objects, or by clicking the filter button to the right of the tables.
 
 ![filter](images/filter.gif)
