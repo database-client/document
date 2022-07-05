@@ -1,5 +1,11 @@
 # Util
 
+## Notebook
+
+You can create a SQL notebook by creating a new file with the suffix of sqlbook, which is used to archive the SQL of multiple connections.
+
+![1657031313683](image/util/1657031313683.png)
+
 ## Table Definition
 
 You can display table definition SQL in the following ways:

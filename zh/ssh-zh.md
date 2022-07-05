@@ -16,10 +16,10 @@
 
 ![img](../image/ssh/1648921326091.png)
 
-If you are an premium user, you will also get the following features:
+如果你是付费用户, 可获得以下功能:
 
 1. 显示隐藏文件.
-2. 将在你修改文件后同步到服务器.
+2. 将在你修改文件后自动同步到服务器.
 
 ## 端口转发
 
