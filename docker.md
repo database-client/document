@@ -13,6 +13,6 @@ Docker provides a management http interface, it is disabled by default, you need
 
 ![1657609075036](image/docker/1657609075036.png)
 
-For remote dockers, you should always connect via ssh tunnel to be safe.
+For remote dockers, you should always connect via ssh tunnel to ensure security.
 
 ![1657606532705](image/connection/1657606532705.png)
