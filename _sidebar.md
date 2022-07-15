@@ -6,4 +6,3 @@
   * [Connection](connection.md)
   * [Result View](result.md)
   * [Util](util.md)
-  * [Docker](docker.md)
