@@ -35,6 +35,6 @@ MongoDB has less support and no longer actively maintained, only recommended for
 
 ## Object Filter
 
-Quickly filter database objects, or by clicking the filter button to the right of the tables.
+You can search for objects by pressing ctrl+f, and click the button in the search box to switch from highlight mode to filter mode.
 
 ![filter](images/filter.gif)
