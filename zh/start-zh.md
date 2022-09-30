@@ -15,7 +15,7 @@
 2. 之后可在数据视图进行CRUD、数据导出等操作.
 3. 表旁边会显示数据总数, 不是准确的, 但可以用来确定表的数据量级别.
 
-![](../image/start/1649314813668.png)
+![](images/view.png)
 
 ## 执行SQL
 
@@ -37,7 +37,7 @@
 1. 对表右键, 选择Design Table(设计表), 就可打开设计表界面查看表的列和索引 (目前只有MySQL得到较高的支持)
 2. 直接展开表节点, 点击列节点后通过SQL直接编辑.
 
-![](../image/table/design.jpg)
+![](https://doc.database-client.com/image/table/design.jpg)
 
 ## 备份/恢复
 
@@ -51,4 +51,4 @@
 
 从版本5.0开始支持对Redis进行备份和恢复, 可选两种格式JSON和NDJSON(推荐用于数据量大的情况)
 
-![](../image/database/redis-backup.png)
+![](https://doc.database-client.com/image/database/redis-backup.png)

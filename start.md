@@ -17,7 +17,7 @@ If you don't need nosql, you can drag it by long press.
 2. Then you can do data modification on the data view.
 3. The total number of data is displayed next to the table, which is not accurate, but can be used to determine the data volume level of the table.
 
-![](image/start/1649314813668.png)
+![](images/view.png)
 
 ## Execute SQL
 
@@ -41,7 +41,7 @@ There are two ways to modify table meta information
 1. Right-click on the table, select Design Table, you can open the design table interface to view the columns and indexes of the table (currently only MySQL has high support)
 2. Expand the table node directly, click the column node and edit it directly by SQL.
 
-![](image/table/design.jpg)
+![](https://doc.database-client.com/image/table/design.jpg)
 
 ## Backup/Import
 
@@ -57,4 +57,4 @@ The extension has a built-in backup function, but it is not perfect. When your e
 
 Since version 5.0, Redis backup and restore is supported, and two formats JSON and NDJSON are available, NDJSON recommended for large data.
 
-![](image/database/redis-backup.png)
+![](https://doc.database-client.com/image/database/redis-backup.png)

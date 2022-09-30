@@ -2,19 +2,19 @@
 
 This software additionally provides SSH support, which can be used as an SSH client.
 
-![](image/ssh/1652196715999.png)
+![](https://doc.database-client.com/image/ssh/1652196715999.png)
 
 ## Terminal
 
 Open the interactive terminal by clicking the button next to the connection.
 
-![img](image/ssh/1652196856309.png)
+![img](https://doc.database-client.com/image/ssh/1652196856309.png)
 
 ## SFTP
 
 When you expand a node, it will become an sftp client. You can view content by clicking on the file node.
 
-![img](image/ssh/1648921326091.png)
+![img](https://doc.database-client.com/image/ssh/1648921326091.png)
 
 If you are an premium user, you will also get the following features:
 
@@ -25,4 +25,4 @@ If you are an premium user, you will also get the following features:
 
 Forward the destination port that ssh can connect to to the port of the machine.
 
-![](image/ssh/1646808779136.png)
+![](https://doc.database-client.com/image/ssh/1646808779136.png)

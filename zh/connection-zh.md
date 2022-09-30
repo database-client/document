@@ -3,17 +3,17 @@
 ## 缓存
 
 为了提高性能，缓存了数据库信息，如果你的数据库结构在外部发生了变更，需要点击以下按钮刷新缓存。
-![](../images/1638342622208.png)
+![img](https://doc.database-client.com/image/connection/1638342622208.png)
 
 ## 分组和排序
 
 在创建连接时, 可以为连接指定一个分组
 
-![](../image/connection/1653135860898.png)
+![](https://doc.database-client.com/image/connection/1653135860898.png)
 
 创建后, 可在树形面板通过拖动修改连接的分组或者顺序
 
-![](../image/connection/1653136074794.png)
+![](https://doc.database-client.com/image/connection/1653136074794.png)
 
 ## 先决条件
 
@@ -36,4 +36,4 @@ MongoDB只有少量的支持, 且不再积极维护, 只推荐用于浏览数据
 
 可通过按下ctrl+f搜索对象, 点击搜索框的按钮可从高亮模式切换为过滤模式.
 
-![filter](../images/filter.gif)
+![filter](https://doc.database-client.com/image/minor/filter.gif)

@@ -4,17 +4,17 @@
 
 In order to improve performance, the database information is cached. If your database structure changes externally, you need to click the refresh button to refresh the cache。
 
-![img](images/1638342622208.png)
+![img](https://doc.database-client.com/image/connection/1638342622208.png)
 
 ## Grouping and sorting
 
 When creating a connection, you can specify a group for the connection.
 
-![](image/connection/1653135860898.png)
+![](https://doc.database-client.com/image/connection/1653135860898.png)
 
 After creation, the grouping or order of connections can be modified by dragging in the tree panel.
 
-![](image/connection/1653136074794.png)
+![](https://doc.database-client.com/image/connection/1653136074794.png)
 
 ## Requirements
 
@@ -37,4 +37,4 @@ MongoDB has less support and no longer actively maintained, only recommended for
 
 You can search for objects by pressing ctrl+f, and click the button in the search box to switch from highlight mode to filter mode.
 
-![filter](images/filter.gif)
+![filter](https://doc.database-client.com/image/minor/filter.gif)
