@@ -48,7 +48,7 @@
       document.documentElement.appendChild(link)
     }
 
-    const theme = location.hash.match(/theme=(.+)/)?.[1];
+    const theme = location.hash.match(/theme=(.+)/)?.[1] ?? location.search.match(/theme=(.+)/)?.[1];
     console.log(theme)
     addCss(theme == 'light' ? 'docsify/light.css' : 'docsify/dark.css')
     // https://docsify.js.org/#/zh-cn/configuration
