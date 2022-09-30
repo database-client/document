@@ -41,7 +41,7 @@ You can specify an encryption key, which will be used for DES encryption and dec
 
 Quickly generate data for database testing, generate by following steps:
 
-![mockData](images/mockData.jpg)
+![mockData](https://doc.database-client.com/img-minor/mockData.jpg)
 
 Generate Config
 

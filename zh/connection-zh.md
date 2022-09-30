@@ -36,4 +36,4 @@ MongoDB只有少量的支持, 且不再积极维护, 只推荐用于浏览数据
 
 可通过按下ctrl+f搜索对象, 点击搜索框的按钮可从高亮模式切换为过滤模式.
 
-![filter](../images/filter.gif)
+![filter](https://doc.database-client.com/img-minor/filter.gif)

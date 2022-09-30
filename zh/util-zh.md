@@ -39,7 +39,7 @@
 
 快速生成用于测试的数据, 通过以下步骤进行生成:
 
-![mockData](../images/mockData.jpg)
+![mockData](https://doc.database-client.com/img-minor/mockData.jpg)
 
 生成配置文件
 
