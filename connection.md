@@ -37,4 +37,4 @@ MongoDB has less support and no longer actively maintained, only recommended for
 
 You can search for objects by pressing ctrl+f, and click the button in the search box to switch from highlight mode to filter mode.
 
-![filter](https://doc.database-client.com/img-minor/filter.gif)
+![filter](images/filter.gif)
