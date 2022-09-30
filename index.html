@@ -8,7 +8,6 @@
   <meta name="description" content="Description">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="docsify/theme-simple-dark.css">
   <style>
     .sidebar-nav a:before,
     .app-sub-sidebar li:before {
@@ -41,6 +40,17 @@
 <body>
   <div id="app"></div>
   <script>
+
+    function addCss(href) {
+      var link = document.createElement('link');
+      link.href = href
+      link.rel = 'stylesheet'
+      document.documentElement.appendChild(link)
+    }
+
+    const theme = location.hash.match(/theme=(.+)/)?.[1];
+    console.log(theme)
+    addCss(theme == 'light' ? 'docsify/light.css' : 'docsify/dark.css')
     // https://docsify.js.org/#/zh-cn/configuration
     window.$docsify = {
       name: '',
@@ -61,7 +71,7 @@
       const target = event.target;
       const href = target && event.target.getAttribute("href");
       if (href && href.startsWith("#") && !href.includes("?id")) {
-        scrollTo(0,0)
+        scrollTo(0, 0)
       }
     })
   </script>
