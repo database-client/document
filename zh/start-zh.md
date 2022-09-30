@@ -15,7 +15,7 @@
 2. 之后可在数据视图进行CRUD、数据导出等操作.
 3. 表旁边会显示数据总数, 不是准确的, 但可以用来确定表的数据量级别.
 
-![](images/view.png)
+![](../images/view.png)
 
 ## 执行SQL
 
@@ -37,7 +37,7 @@
 1. 对表右键, 选择Design Table(设计表), 就可打开设计表界面查看表的列和索引 (目前只有MySQL得到较高的支持)
 2. 直接展开表节点, 点击列节点后通过SQL直接编辑.
 
-![](https://doc.database-client.com/image/table/design.jpg)
+![](../images/design.jpg)
 
 ## 备份/恢复
 
