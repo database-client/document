@@ -41,7 +41,7 @@
 
 ### 联系我们
 
-如果你遇到了任何问题, 可通过以下方式联系我们:
+如果你遇到了任何问题, 可通过以下方式联系:
 
 - 加入Q群: 706495803
 - 到github仓库[创建issue](https://github.com/cweijan/vscode-database-client/issues)
