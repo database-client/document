@@ -23,12 +23,6 @@ By clicking this button to open the console, where you can modify extension sett
 
 ![](https://doc.database-client.com/image/console/1646791881361.png)
 
-### Options
-
-There are two types of settings provided here, advanced settings are only available to paid users.
-
-![](https://doc.database-client.com/image/console/1648456961090.png)
-
 ### Cloud Sync
 
 To synchronize your connection information through the cloud.
@@ -41,7 +35,7 @@ You can specify an encryption key, which will be used for DES encryption and dec
 
 Quickly generate data for database testing, generate by following steps:
 
-![mockData](https://doc.database-client.com/image/minor/mockData.jpg)
+![mockData](./image/minor/mockData.jpg)
 
 Generate Config
 

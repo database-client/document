@@ -23,12 +23,6 @@
 
 ![](https://doc.database-client.com/image/console/1646791881361.png)
 
-### 设置
-
-这里提供了两种设置类型, 高级设置只对付费用户开放.
-
-![](https://doc.database-client.com/image/console/1648456961090.png)
-
 ### 云同步
 
 通过云端同步你的连接信息, 可以指定一个加密密钥, 在同步时会通过该密钥进行DES加解密, 确保数据安全.

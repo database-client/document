@@ -36,5 +36,3 @@ MongoDB has less support and no longer actively maintained, only recommended for
 ## Object Filter
 
 You can search for objects by pressing ctrl+f.
-
-![filter](https://doc.database-client.com/image/minor/filter.gif)
