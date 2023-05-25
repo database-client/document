@@ -41,7 +41,7 @@ There are two ways to modify table meta information
 1. Right-click on the table, select Design Table, you can open the design table interface to view the columns and indexes of the table (currently only MySQL has high support)
 2. Expand the table node directly, click the column node and edit it directly by SQL.
 
-![](images/table/design.jpg)
+![](images/design.jpg)
 
 ## Backup/Import
 
