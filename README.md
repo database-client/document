@@ -22,7 +22,6 @@ Feature comparison of free version and paid premium version:
 | SQL Completion                                | ✔   | ✔      |
 | Database backup and recovery                  | ✔   | ✔      |
 | Unlimited connections(Limit 3 for free.)      | ✘   | ✔      |
-| More IntelliSense SQL Completion              | ✘   | ✔      |
 | Workspace level connection                    | ✘   | ✔      |
 | Cloud Config Sync                             | ✘   | ✔      |
 | SFTP Support                                  | ✘   | ✔      |
