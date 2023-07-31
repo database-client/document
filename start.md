@@ -34,6 +34,10 @@ That will open a SQL editor bind of database, it provider:
 
 ![run](images/run.jpg)
 
+You can reverse the data by adding \G at the end of the SQL.
+
+![reverseData](./images/reverseData.png)
+
 ## Design
 
 There are two ways to modify table meta information
