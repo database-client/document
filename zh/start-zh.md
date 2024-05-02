@@ -30,10 +30,6 @@
 
 ![run](../images/run.jpg)
 
-可通过在SQL结尾拼接\G反转数据.
-
-![reverseData](../images/reverseData.png)
-
 ## 设计表
 
 修改表元信息有两种做法
