@@ -29,6 +29,5 @@
 
 如果你遇到了任何问题, 可通过以下方式联系:
 
-- 加入Q群: 706495803
-- 到github仓库[创建issue](https://github.com/cweijan/vscode-database-client/issues)
 - 发邮件到support@database-client.com
+- 到github仓库[创建issue](https://github.com/cweijan/vscode-database-client/issues)
