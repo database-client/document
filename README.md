@@ -18,17 +18,17 @@ Feature comparison of free version and paid premium version:
 | --------------------------------------------- | ---- | ------- |
 | Connect to MySQL, PostgreSQL, Redis and More  | ✔   | ✔      |
 | Connect to SSH server as SSH client           | ✔   | ✔      |
-| Modify, query table data and database objects | ✔   | ✔      |
 | SQL Completion                                | ✔   | ✔      |
 | Database backup and recovery                  | ✔   | ✔      |
-| Unlimited connections(Limit 3 for free.)      | ✘   | ✔      |
-| Workspace level connection                    | ✘   | ✔      |
-| Cloud Config Sync                             | ✘   | ✔      |
-| SFTP Support                                  | ✘   | ✔      |
+| Modify, query table data and database objects | ✔   | ✔      |
+| Unlimited connections (Free version limited to 4) | ✘   | ✔      |
+| Workspace-level connections                   | ✘   | ✔      |
+| Cloud configuration sync                       | ✘   | ✔      |
 | Export table data as JSON, CSV, XLSX          | ✘   | ✔      |
-| Open database terminal.                       | ✘   | ✔      |
-| Show table definition SQL                     | ✘   | ✔      |
-| View SQL execution history                    | ✘   | ✔      |
+| Show database ER diagram                      | ✘   | ✔      |
+| Show definition by hover or click              | ✘   | ✔      |
+| Advanced table style configuration             | ✘   | ✔      |
+| Connect via HTTP or Socks proxy               | ✘   | ✔      |
 
 ### Contact Us
 
