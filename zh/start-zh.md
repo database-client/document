@@ -49,6 +49,6 @@
 
 ### Redis
 
-从版本5.0开始支持对Redis进行备份和恢复, 可选两种格式JSON和NDJSON(推荐用于数据量大的情况)
+从版本5.0开始支持对Redis进行备份和恢复, 可选两种格式JSON和JSON Lines(JSON Lines推荐用于数据量大的情况)
 
 ![](https://doc.database-client.com/image/database/redis-backup.png)

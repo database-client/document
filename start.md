@@ -55,6 +55,6 @@ The extension has a built-in backup function, but it is not perfect. When your e
 
 ### Redis
 
-Since version 5.0, Redis backup and restore is supported, and two formats JSON and NDJSON are available, NDJSON recommended for large data.
+Since version 5.0, Redis backup and restore is supported, and two formats JSON and JSON Lines are available, JSON Lines recommended for large data.
 
 ![](https://doc.database-client.com/image/database/redis-backup.png)
