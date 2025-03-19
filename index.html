@@ -34,6 +34,13 @@
       min-height: 50px;
       border-radius: 5px !important;
     }
+
+    html.in-iframe,
+    html.in-iframe body,
+    html.in-iframe .sidebar {
+      background-color: transparent !important;
+      --sidebar-toggle-background: transparent;
+    }
   </style>
 </head>
 
@@ -75,6 +82,9 @@
         scrollTo(0, 0)
       }
     })
+    if (window.self !== window.top) {
+      document.documentElement.classList.add('in-iframe');
+    }
   </script>
 </body>
 
